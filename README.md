@@ -33,6 +33,19 @@ I am a backend developer and still learning for my whole life
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/lagikayaraya) 
 </p>
 
+ - - -
+<img align="right" src="https://user-images.githubusercontent.com/64578787/128322912-8489514b-c295-4ef5-97af-9ce848b6bd25.gif" width="431"/></a>
+
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=theoxgn&show_icons=true&theme=react&locale=en" width="355" ></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoxgn&layout=compact&theme=react" width="355"/></p>
+</p>
+
+
+<p align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=theoxgn&color=61dafb" width="120"/>
+</p>
+
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
