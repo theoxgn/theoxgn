@@ -14,7 +14,6 @@ I am a backend developer and still learning for my whole life
 
 ![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=Javascript&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-316192?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 #### Database
 
